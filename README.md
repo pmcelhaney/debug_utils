@@ -59,7 +59,7 @@ to debug. The following utilities should help you:
 
 Attach an event handler that starts debugger when triggered.
 
-Usesful for:
+Useful for:
 
 * Making sure the event is being triggered.
 * Stepping through other event handlers.
@@ -69,7 +69,7 @@ Usesful for:
 
 Attach an event handler that logs its arguments when fired.
 
-Usesful for:
+Useful for:
 
 * Making sure the event is being fired with the correct args.
 
